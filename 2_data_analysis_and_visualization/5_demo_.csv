@@ -1,0 +1,501 @@
+Date,Description,Amount,Category,Transaction ID,Class
+2024-01-03,Gadget Store,202.09,Electronics,100000001,0
+2024-01-05,Nail Salon,50.06,Personal Care,100000002,0
+2024-01-07,Web Store,134.02,Online Retail,100000003,0
+2024-01-08,Pet Store,28.89,Pet Supplies,100000004,0
+2024-01-08,Convenience Store,47.78,Groceries,100000005,0
+2024-01-09,Clothing Store,156.54,Apparel,100000006,0
+2024-01-11,Music Shop,16.75,Hobbies,100000007,0
+2024-01-13,Hobby Shop,41.08,Hobbies,100000008,0
+2024-01-15,Yoga Studio,48.07,Fitness,100000009,0
+2024-01-17,Non-Profit Contribution,39.96,Donation,100000010,0
+2024-01-19,Dental Checkup,68.66,Healthcare,100000011,0
+2024-01-20,Gas Bill,128.96,Utilities,100000012,0
+2024-01-22,Book Learning,46.14,Education,100000013,0
+2024-01-23,Shoe Store,32.58,Apparel,100000014,0
+2024-01-24,Fashion Boutique,147.60,Apparel,100000015,0
+2024-01-25,Clothing Accessory,114.86,Apparel,100000016,0
+2024-01-27,Home Repair Store,59.58,Home Improvement,100000017,0
+2024-01-29,Charity Donation,28.61,Donation,100000018,0
+2024-01-31,Hotel Stay,1330.06,Travel,100000019,0
+2024-02-02,Charity Donation,32.73,Donation,100000020,0
+2024-02-03,Movie Night,76.63,Entertainment,100000021,0
+2024-02-05,Web Store,157.24,Online Retail,100000022,0
+2024-02-07,Pet Store,32.68,Pet Supplies,100000023,0
+2024-02-08,Craft Store,12.03,Hobbies,100000024,0
+2024-02-09,Pet Store,48.35,Pet Supplies,100000025,0
+2024-02-09,Auto Repair,237.49,Automotive,100000026,0
+2024-02-09,Charity Donation,65.47,Donation,100000027,0
+2024-02-09,Retail Store,185.47,Shopping,100000028,0
+2024-02-09,Train Ticket,800.51,Travel,100000029,0
+2024-02-09,Tech Outlet,58.98,Electronics,100000030,0
+2024-02-09,Yoga Studio,58.89,Fitness,100000031,0
+2024-02-09,Boutique,109.91,Shopping,100000032,0
+2024-02-11,Electronics Repair,202.68,Electronics,100000033,0
+2024-02-13,Local Grocer,48.88,Groceries,100000034,0
+2024-02-15,Online Service,8.91,Subscription,100000035,0
+2024-02-16,Stationery Shop,20.87,Office Supplies,100000036,0
+2024-02-16,Streaming Service,69.96,Entertainment,100000037,0
+2024-02-18,Car Service,34.37,Automotive,100000038,0
+2024-02-18,Hardware Store,134.53,Home Improvement,100000039,0
+2024-02-19,Workshop Fee,70.49,Education,100000040,0
+2024-02-19,Stationery Shop,42.82,Office Supplies,100000041,0
+2024-02-19,Gaming Platform,65.42,Entertainment,100000042,0
+2024-02-21,Software License,23.94,Subscription,100000043,0
+2024-02-22,Hotel Stay,495.03,Travel,100000044,0
+2024-02-24,Online Course,106.96,Education,100000045,0
+2024-02-24,Charity Donation,96.32,Donation,100000046,0
+2024-02-25,City Transit,47.47,Transportation,100000047,0
+2024-02-27,Book Learning,78.43,Education,100000048,0
+2024-02-28,Online Service,27.55,Subscription,100000049,0
+2024-02-28,Takeaway Meal,15.27,Food,100000050,0
+2024-03-01,Fashion Boutique,178.54,Apparel,100000051,0
+2024-03-01,Hobby Shop,29.34,Hobbies,100000052,0
+2024-03-02,Internet Bill,68.40,Utilities,100000053,0
+2024-03-04,Morning Brew,9.89,Coffee,100000054,0
+2024-03-05,Pet Store,45.03,Pet Supplies,100000055,0
+2024-03-07,Salon Services,67.45,Personal Care,100000056,0
+2024-03-08,Home Repair Store,63.62,Home Improvement,100000057,0
+2024-03-08,Healthcare Provider,36.31,Healthcare,100000058,0
+2024-03-08,Pharmacy,66.34,Healthcare,100000059,0
+2024-03-08,Fitness Center,54.87,Fitness,100000060,0
+2024-03-08,Electronics Repair,474.70,Electronics,100000061,0
+2024-03-10,Fashion Boutique,24.92,Apparel,100000062,0
+2024-03-11,Supermarket,28.43,Groceries,100000063,0
+2024-03-13,Online Course,79.26,Education,100000064,0
+2024-03-14,Electronic Goods,330.48,Electronics,100000065,0
+2024-03-15,Pet Grooming,42.02,Pet Supplies,100000066,0
+2024-03-15,Ride Share,20.21,Transportation,100000067,0
+2024-03-17,Workshop Fee,141.78,Education,100000068,0
+2024-03-19,Local Cafe,20.53,Food,100000069,0
+2024-03-20,Gadget Store,166.98,Electronics,100000070,0
+2024-03-21,App Subscription,21.78,Subscription,100000071,0
+2024-03-23,Non-Profit Contribution,22.77,Donation,100000072,0
+2024-03-24,Software License,5.27,Subscription,100000073,0
+2024-03-26,Local Cafe,52.33,Food,100000074,0
+2024-03-27,Printer Ink,40.14,Office Supplies,100000075,0
+2024-03-28,Convenience Store,95.75,Groceries,100000076,0
+2024-03-30,Pet Store,15.67,Pet Supplies,100000077,0
+2024-03-31,Printer Ink,34.87,Office Supplies,100000078,0
+2024-04-02,Movie Night,17.53,Entertainment,100000079,0
+2024-04-03,Boutique,53.79,Shopping,100000080,0
+2024-04-03,E-commerce Site,116.48,Online Retail,100000081,0
+2024-04-03,Cafe Perk,9.45,Coffee,100000082,0
+2024-04-05,Healthcare Provider,7.39,Healthcare,100000083,0
+2024-04-06,Supermarket,111.70,Groceries,100000084,0
+2024-04-08,Museum Entry,21.81,Entertainment,100000085,0
+2024-04-08,Book Store,39.70,Hobbies,100000086,0
+2024-04-09,Software License,25.32,Subscription,100000087,0
+2024-04-11,Cafe Perk,4.32,Coffee,100000088,0
+2024-04-12,Auto Repair,196.61,Automotive,100000089,0
+2024-04-12,Organic Groceries,95.95,Groceries,100000090,0
+2024-04-14,Fitness Center,53.98,Fitness,100000091,0
+2024-04-15,Boutique,135.66,Shopping,100000092,0
+2024-04-15,Yoga Studio,511.42,Fitness,100000093,1
+2024-04-15,Electricity Bill,1229.63,Utilities,100000094,1
+2024-04-16,Online Course,86.63,Education,100000095,0
+2024-04-16,Electricity Bill,136.17,Utilities,100000096,0
+2024-04-17,Online Shop,1000.07,Shopping,100000097,1
+2024-04-19,Hobby Shop,20.23,Hobbies,100000098,0
+2024-04-19,Local Coffee Shop,9.99,Coffee,100000099,0
+2024-04-21,Local Coffee Shop,7.80,Coffee,100000100,0
+2024-04-23,Yoga Studio,13.65,Fitness,100000101,0
+2024-04-25,Digital Marketplace,86.85,Online Retail,100000102,0
+2024-04-27,Web Store,217.97,Online Retail,100000103,0
+2024-04-27,Cafe Perk,540.57,Coffee,100000104,1
+2024-04-28,Web Store,51.85,Online Retail,100000105,0
+2024-04-29,Electricity Bill,192.81,Utilities,100000106,0
+2024-04-30,Salon Services,52.28,Personal Care,100000107,0
+2024-05-02,Hobby Shop,21.17,Hobbies,100000108,0
+2024-05-02,Barber Shop,56.66,Personal Care,100000109,0
+2024-05-02,Salon Services,42.01,Personal Care,100000110,0
+2024-05-02,Clothing Store,953.39,Apparel,100000111,1
+2024-05-03,Pet Store,23.06,Pet Supplies,100000112,0
+2024-05-03,Non-Profit Contribution,56.91,Donation,100000113,0
+2024-05-05,Healthcare Provider,32.73,Healthcare,100000114,0
+2024-05-05,Morning Brew,5.25,Coffee,100000115,0
+2024-05-07,E-commerce Site,143.68,Online Retail,100000116,0
+2024-05-08,Train Ticket,639.89,Travel,100000117,0
+2024-05-10,Electricity Bill,91.14,Utilities,100000118,0
+2024-05-10,Pet Grooming,29.95,Pet Supplies,100000119,0
+2024-05-11,Cinema Tickets,36.89,Entertainment,100000120,0
+2024-05-13,General Merchandise,192.03,Shopping,100000121,0
+2024-05-14,Healthcare Provider,55.14,Healthcare,100000122,0
+2024-05-15,Water Bill,165.13,Utilities,100000123,0
+2024-05-15,Streaming Service,59.52,Entertainment,100000124,0
+2024-05-16,Gym Class,34.13,Fitness,100000125,0
+2024-05-16,Yoga Studio,35.40,Fitness,100000126,0
+2024-05-17,Lumber Yard,35.74,Home Improvement,100000127,0
+2024-05-17,Office Supplies,45.61,Office Supplies,100000128,0
+2024-05-17,Pet Store,18.27,Pet Supplies,100000129,0
+2024-05-19,Water Bill,142.57,Utilities,100000130,0
+2024-05-21,Morning Brew,9.69,Coffee,100000131,0
+2024-05-21,Quick Service Restaurant,67.44,Food,100000132,0
+2024-05-23,Internet Bill,110.21,Utilities,100000133,0
+2024-05-24,Streaming Service,68.94,Entertainment,100000134,0
+2024-05-26,Museum Entry,71.51,Entertainment,100000135,0
+2024-05-26,Electricity Bill,125.92,Utilities,100000136,0
+2024-05-27,Train Ticket,56.29,Travel,100000137,0
+2024-05-29,Software License,7.45,Subscription,100000138,0
+2024-05-31,Charity Donation,77.44,Donation,100000139,0
+2024-06-01,Pet Store,24.35,Pet Supplies,100000140,0
+2024-06-02,Streaming Service,24.60,Entertainment,100000141,0
+2024-06-02,Furniture Store,67.79,Home Goods,100000142,0
+2024-06-02,Medical Visit,8.24,Healthcare,100000143,0
+2024-06-04,Organic Groceries,21.96,Groceries,100000144,0
+2024-06-05,Gym Class,49.68,Fitness,100000145,0
+2024-06-06,Workshop Fee,113.61,Education,100000146,0
+2024-06-07,Hobby Shop,37.32,Hobbies,100000147,0
+2024-06-08,Tire Replacement,15.14,Automotive,100000148,0
+2024-06-08,App Subscription,11.10,Subscription,100000149,0
+2024-06-10,Kitchenware,96.55,Home Goods,100000150,0
+2024-06-12,Internet Bill,140.56,Utilities,100000151,0
+2024-06-14,Music Shop,46.18,Hobbies,100000152,0
+2024-06-16,Clothing Store,81.03,Apparel,100000153,0
+2024-06-16,Local Grocer,26.93,Groceries,100000154,0
+2024-06-16,Museum Entry,31.58,Entertainment,100000155,0
+2024-06-17,Pet Grooming,11.28,Pet Supplies,100000156,0
+2024-06-17,Office Supplies,44.53,Office Supplies,100000157,0
+2024-06-17,Car Service,126.79,Automotive,100000158,0
+2024-06-18,Online Shop,146.74,Shopping,100000159,0
+2024-06-19,Office Supplies,13.11,Office Supplies,100000160,0
+2024-06-19,Pet Store,17.38,Pet Supplies,100000161,0
+2024-06-20,Online Purchase,92.96,Online Retail,100000162,0
+2024-06-22,Organic Groceries,83.61,Groceries,100000163,0
+2024-06-24,Vet Visit,49.32,Pet Supplies,100000164,0
+2024-06-25,Streaming Monthly,25.31,Subscription,100000165,0
+2024-06-25,Movie Night,14.02,Entertainment,100000166,0
+2024-06-27,Boutique,50.75,Shopping,100000167,0
+2024-06-27,Medical Visit,24.10,Healthcare,100000168,0
+2024-06-28,Streaming Service,54.00,Entertainment,100000169,0
+2024-06-30,Pet Store,14.04,Pet Supplies,100000170,0
+2024-07-02,Taxi Fare,10.60,Transportation,100000171,0
+2024-07-02,Online Course,123.28,Education,100000172,0
+2024-07-03,Concert Tickets,74.76,Entertainment,100000173,0
+2024-07-04,Boutique,66.65,Shopping,100000174,0
+2024-07-06,Fitness Center,30.15,Fitness,100000175,0
+2024-07-07,Tire Replacement,68.21,Automotive,100000176,0
+2024-07-08,Art Supply Store,31.06,Hobbies,100000177,0
+2024-07-08,App Subscription,15.82,Subscription,100000178,0
+2024-07-08,Car Wash,235.38,Automotive,100000179,0
+2024-07-10,Clothing Store,160.97,Apparel,100000180,0
+2024-07-11,Kitchenware,73.99,Home Goods,100000181,0
+2024-07-11,Cafe Perk,8.92,Coffee,100000182,0
+2024-07-12,Fine Dining,41.86,Food,100000183,0
+2024-07-14,Electronics Repair,151.34,Electronics,100000184,0
+2024-07-15,Printer Ink,30.06,Office Supplies,100000185,0
+2024-07-15,Water Bill,92.26,Utilities,100000186,0
+2024-07-15,Ride Share,47.11,Transportation,100000187,0
+2024-07-16,DIY Supplies,52.68,Home Improvement,100000188,0
+2024-07-17,General Merchandise,126.26,Shopping,100000189,0
+2024-07-18,Clothing Accessory,126.82,Apparel,100000190,0
+2024-07-18,Car Service,79.03,Automotive,100000191,0
+2024-07-18,Yoga Studio,29.54,Fitness,100000192,0
+2024-07-20,Vet Visit,32.63,Pet Supplies,100000193,0
+2024-07-20,Printer Ink,27.53,Office Supplies,100000194,0
+2024-07-20,General Merchandise,35.48,Shopping,100000195,0
+2024-07-21,Art Supply Store,58.59,Hobbies,100000196,0
+2024-07-21,App Subscription,23.58,Subscription,100000197,0
+2024-07-23,Furniture Store,31.36,Home Goods,100000198,0
+2024-07-23,Healthcare Provider,88.61,Healthcare,100000199,0
+2024-07-23,Software License,5.80,Subscription,100000200,0
+2024-07-25,Charity Donation,42.10,Donation,100000201,0
+2024-07-25,App Subscription,13.57,Subscription,100000202,0
+2024-07-26,Cafe Perk,7.26,Coffee,100000203,0
+2024-07-28,Car Wash,96.28,Automotive,100000204,0
+2024-07-30,Home Decor,34.09,Home Goods,100000205,0
+2024-07-31,Fashion Boutique,136.35,Apparel,100000206,0
+2024-08-02,Fuel Purchase,17.56,Transportation,100000207,0
+2024-08-02,Local Grocer,29.25,Groceries,100000208,0
+2024-08-03,Home Decor,86.49,Home Goods,100000209,0
+2024-08-04,Car Wash,87.28,Automotive,100000210,0
+2024-08-06,General Merchandise,29.42,Shopping,100000211,0
+2024-08-06,Fuel Purchase,10.17,Transportation,100000212,0
+2024-08-08,Internet Bill,55.39,Utilities,100000213,0
+2024-08-10,Nail Salon,20.11,Personal Care,100000214,0
+2024-08-11,Book Store,13.79,Hobbies,100000215,0
+2024-08-13,Non-Profit Contribution,16.40,Donation,100000216,0
+2024-08-13,Concert Tickets,25.36,Entertainment,100000217,0
+2024-08-13,Barber Shop,27.20,Personal Care,100000218,0
+2024-08-14,Electricity Bill,90.30,Utilities,100000219,0
+2024-08-14,Local Coffee Shop,4.64,Coffee,100000220,0
+2024-08-15,Online Course,193.15,Education,100000221,0
+2024-08-17,Dental Checkup,15.19,Healthcare,100000222,0
+2024-08-17,Stationery Shop,11.60,Office Supplies,100000223,0
+2024-08-17,Online Course,113.68,Education,100000224,0
+2024-08-18,Water Bill,134.99,Utilities,100000225,0
+2024-08-18,Dental Checkup,59.44,Healthcare,100000226,0
+2024-08-18,Online Course,72.59,Education,100000227,0
+2024-08-19,Car Service,167.40,Automotive,100000228,0
+2024-08-21,Organic Groceries,59.09,Groceries,100000229,0
+2024-08-21,Flight Booking,606.18,Travel,100000230,0
+2024-08-21,Online Shop,23.15,Shopping,100000231,0
+2024-08-22,Dental Checkup,54.55,Healthcare,100000232,0
+2024-08-23,Fashion Boutique,23.69,Apparel,100000233,0
+2024-08-25,Cafe Perk,5.20,Coffee,100000234,0
+2024-08-25,Printer Ink,42.00,Office Supplies,100000235,0
+2024-08-26,Lumber Yard,47.49,Home Improvement,100000236,0
+2024-08-28,Printer Ink,27.80,Office Supplies,100000237,0
+2024-08-29,Farmers Market,142.65,Groceries,100000238,0
+2024-08-31,Book Learning,190.65,Education,100000239,0
+2024-09-01,Stationery Shop,20.81,Office Supplies,100000240,0
+2024-09-02,Online Purchase,241.08,Online Retail,100000241,0
+2024-09-02,Electronic Goods,125.81,Electronics,100000242,0
+2024-09-03,Diner,29.46,Food,100000243,0
+2024-09-05,Art Supply Store,14.74,Hobbies,100000244,0
+2024-09-05,Gas Bill,116.85,Utilities,100000245,0
+2024-09-05,Printer Ink,38.66,Office Supplies,100000246,0
+2024-09-05,Electronic Goods,321.09,Electronics,100000247,0
+2024-09-05,Ride Share,18.12,Transportation,100000248,0
+2024-09-05,Salon Services,47.54,Personal Care,100000249,0
+2024-09-05,Pet Grooming,40.54,Pet Supplies,100000250,0
+2024-09-07,Home Decor,98.41,Home Goods,100000251,0
+2024-09-07,Book Learning,147.86,Education,100000252,0
+2024-09-09,Book Store,21.26,Hobbies,100000253,0
+2024-09-10,Pet Grooming,36.25,Pet Supplies,100000254,0
+2024-09-10,App Subscription,9.49,Subscription,100000255,0
+2024-09-12,Spa Day,46.84,Personal Care,100000256,0
+2024-09-12,Cinema Tickets,60.57,Entertainment,100000257,0
+2024-09-13,Lumber Yard,149.16,Home Improvement,100000258,0
+2024-09-13,Fitness Center,29.22,Fitness,100000259,0
+2024-09-13,Local Coffee Shop,9.87,Coffee,100000260,0
+2024-09-13,Spa Day,34.98,Personal Care,100000261,0
+2024-09-14,Music Shop,10.95,Hobbies,100000262,0
+2024-09-15,Pharmacy,81.67,Healthcare,100000263,0
+2024-09-16,Car Wash,186.84,Automotive,100000264,0
+2024-09-16,Supermarket,37.96,Groceries,100000265,0
+2024-09-18,Workshop Fee,162.82,Education,100000266,0
+2024-09-18,Streaming Monthly,15.67,Subscription,100000267,0
+2024-09-18,General Merchandise,101.92,Shopping,100000268,0
+2024-09-18,Water Bill,148.68,Utilities,100000269,0
+2024-09-20,Book Store,53.85,Hobbies,100000270,0
+2024-09-20,Online Shop,97.93,Shopping,100000271,0
+2024-09-20,General Merchandise,77.03,Shopping,100000272,0
+2024-09-20,Auto Repair,63.77,Automotive,100000273,0
+2024-09-22,Retail Store,166.71,Shopping,100000274,0
+2024-09-23,Internet Bill,40.64,Utilities,100000275,0
+2024-09-24,Online Service,16.70,Subscription,100000276,0
+2024-09-24,General Merchandise,188.44,Shopping,100000277,0
+2024-09-26,Car Wash,148.75,Automotive,100000278,0
+2024-09-28,Diner,43.27,Food,100000279,0
+2024-09-28,Online Service,28.14,Subscription,100000280,0
+2024-09-29,Book Learning,69.29,Education,100000281,0
+2024-09-29,Salon Services,32.00,Personal Care,100000282,0
+2024-09-29,Electronics Repair,102.13,Electronics,100000283,0
+2024-09-30,Morning Brew,9.39,Coffee,100000284,0
+2024-09-30,Office Supplies,29.31,Office Supplies,100000285,0
+2024-10-02,Train Ticket,943.30,Travel,100000286,0
+2024-10-02,Healthcare Provider,43.86,Healthcare,100000287,0
+2024-10-04,Local Cafe,48.46,Food,100000288,0
+2024-10-04,Non-Profit Contribution,11.10,Donation,100000289,0
+2024-10-06,Farmers Market,25.93,Groceries,100000290,0
+2024-10-07,Fitness Center,25.76,Fitness,100000291,0
+2024-10-09,Gadget Store,481.25,Electronics,100000292,0
+2024-10-09,Local Coffee Shop,3.11,Coffee,100000293,0
+2024-10-09,Taxi Fare,32.38,Transportation,100000294,0
+2024-10-10,Auto Repair,206.39,Automotive,100000295,0
+2024-10-12,Museum Entry,31.70,Entertainment,100000296,0
+2024-10-13,Boutique,18.47,Shopping,100000297,0
+2024-10-13,Cafe Perk,4.13,Coffee,100000298,0
+2024-10-15,App Subscription,8.80,Subscription,100000299,0
+2024-10-16,Charity Donation,67.05,Donation,100000300,0
+2024-10-16,City Transit,46.14,Transportation,100000301,0
+2024-10-18,Web Store,180.24,Online Retail,100000302,0
+2024-10-20,Kitchenware,33.65,Home Goods,100000303,0
+2024-10-20,Auto Repair,203.18,Automotive,100000304,0
+2024-10-21,General Merchandise,121.43,Shopping,100000305,0
+2024-10-23,Convenience Store,39.60,Groceries,100000306,0
+2024-10-24,Printer Ink,49.44,Office Supplies,100000307,0
+2024-10-26,Organic Groceries,57.59,Groceries,100000308,0
+2024-10-26,E-commerce Site,33.55,Online Retail,100000309,0
+2024-10-27,Nail Salon,59.38,Personal Care,100000310,0
+2024-10-28,Gadget Store,170.31,Electronics,100000311,0
+2024-10-29,Gaming Platform,55.92,Entertainment,100000312,0
+2024-10-29,Barber Shop,29.52,Personal Care,100000313,0
+2024-10-30,Web Store,130.41,Online Retail,100000314,0
+2024-10-30,Book Store,400.21,Hobbies,100000315,1
+2024-10-31,Gaming Platform,78.55,Entertainment,100000316,0
+2024-10-31,Drug Store,64.40,Healthcare,100000317,0
+2024-11-01,Taxi Fare,53.82,Transportation,100000318,0
+2024-11-03,App Subscription,14.55,Subscription,100000319,0
+2024-11-03,Local Grocer,58.12,Groceries,100000320,0
+2024-11-04,Fitness Center,18.96,Fitness,100000321,0
+2024-11-06,Book Learning,105.93,Education,100000322,0
+2024-11-08,Organic Groceries,30.52,Groceries,100000323,0
+2024-11-08,Cafe Perk,3.48,Coffee,100000324,0
+2024-11-09,Ride Share,45.41,Transportation,100000325,0
+2024-11-09,E-commerce Site,291.64,Online Retail,100000326,0
+2024-11-10,Drug Store,44.76,Healthcare,100000327,0
+2024-11-10,Gym Class,48.44,Fitness,100000328,0
+2024-11-12,Takeaway Meal,29.80,Food,100000329,0
+2024-11-14,Medical Visit,48.49,Healthcare,100000330,0
+2024-11-16,Organic Groceries,133.31,Groceries,100000331,0
+2024-11-18,Tire Replacement,30.59,Automotive,100000332,0
+2024-11-20,Barber Shop,16.61,Personal Care,100000333,0
+2024-11-21,Pharmacy,32.84,Healthcare,100000334,0
+2024-11-23,Taxi Fare,30.83,Transportation,100000335,0
+2024-11-23,Cafe Perk,6.90,Coffee,100000336,0
+2024-11-25,Local Coffee Shop,5.24,Coffee,100000337,0
+2024-11-26,E-commerce Site,259.34,Online Retail,100000338,0
+2024-11-28,Concert Tickets,77.40,Entertainment,100000339,0
+2024-11-29,Vet Visit,47.71,Pet Supplies,100000340,0
+2024-12-01,Stationery Shop,40.70,Office Supplies,100000341,0
+2024-12-01,Software License,16.34,Subscription,100000342,0
+2024-12-01,Auto Repair,42.52,Automotive,100000343,0
+2024-12-01,Software License,21.48,Subscription,100000344,0
+2024-12-03,Streaming Monthly,10.50,Subscription,100000345,0
+2024-12-03,Yoga Studio,49.44,Fitness,100000346,0
+2024-12-05,Hardware Store,84.42,Home Improvement,100000347,0
+2024-12-07,DIY Supplies,40.21,Home Improvement,100000348,0
+2024-12-07,Fine Dining,64.97,Food,100000349,0
+2024-12-07,Gas Bill,181.85,Utilities,100000350,0
+2024-12-09,Car Wash,236.29,Automotive,100000351,0
+2024-12-11,Water Bill,138.01,Utilities,100000352,0
+2024-12-13,Yoga Studio,16.66,Fitness,100000353,0
+2024-12-14,Online Course,42.92,Education,100000354,0
+2024-12-16,General Merchandise,159.50,Shopping,100000355,0
+2024-12-16,Supermarket,117.45,Groceries,100000356,0
+2024-12-16,Workshop Fee,184.93,Education,100000357,0
+2024-12-18,Craft Store,47.47,Hobbies,100000358,0
+2024-12-20,Kitchenware,32.60,Home Goods,100000359,0
+2024-12-21,Retail Store,53.47,Shopping,100000360,0
+2024-12-23,Book Learning,88.68,Education,100000361,0
+2024-12-24,Charity Donation,43.65,Donation,100000362,0
+2024-12-26,Local Coffee Shop,6.02,Coffee,100000363,0
+2024-12-27,Supermarket,55.83,Groceries,100000364,0
+2024-12-29,Vet Visit,17.10,Pet Supplies,100000365,0
+2024-12-31,Clothing Store,34.36,Apparel,100000366,0
+2025-01-02,Shoe Store,174.20,Apparel,100000367,0
+2025-01-03,Auto Repair,39.38,Automotive,100000368,0
+2025-01-04,Book Learning,91.47,Education,100000369,0
+2025-01-05,Software License,11.65,Subscription,100000370,0
+2025-01-06,Book Learning,128.76,Education,100000371,0
+2025-01-06,Hardware Store,140.65,Home Improvement,100000372,0
+2025-01-08,Train Ticket,1024.14,Travel,100000373,0
+2025-01-08,Non-Profit Contribution,39.61,Donation,100000374,0
+2025-01-10,Online Purchase,202.43,Online Retail,100000375,0
+2025-01-12,Non-Profit Contribution,76.12,Donation,100000376,0
+2025-01-14,Barber Shop,33.35,Personal Care,100000377,0
+2025-01-15,Water Bill,153.47,Utilities,100000378,0
+2025-01-16,Home Repair Store,55.53,Home Improvement,100000379,0
+2025-01-16,Sporting Goods,10.94,Fitness,100000380,0
+2025-01-18,Office Supplies,42.10,Office Supplies,100000381,0
+2025-01-18,Nail Salon,57.38,Personal Care,100000382,0
+2025-01-20,Gym Class,16.65,Fitness,100000383,0
+2025-01-20,Digital Marketplace,163.08,Online Retail,100000384,0
+2025-01-20,Workshop Fee,131.94,Education,100000385,0
+2025-01-21,Hardware Store,90.33,Home Improvement,100000386,0
+2025-01-22,Craft Store,22.28,Hobbies,100000387,0
+2025-01-23,Online Purchase,68.71,Online Retail,100000388,0
+2025-01-24,Dental Checkup,7.78,Healthcare,100000389,0
+2025-01-25,Car Wash,142.80,Automotive,100000390,0
+2025-01-25,App Subscription,14.74,Subscription,100000391,0
+2025-01-27,Car Service,220.08,Automotive,100000392,0
+2025-01-27,Yoga Studio,29.17,Fitness,100000393,0
+2025-01-29,Printer Ink,18.21,Office Supplies,100000394,0
+2025-01-30,Art Supply Store,11.01,Hobbies,100000395,0
+2025-01-30,Book Learning,173.77,Education,100000396,0
+2025-02-01,Lumber Yard,105.93,Home Improvement,100000397,0
+2025-02-03,Book Learning,120.34,Education,100000398,0
+2025-02-04,Tech Outlet,209.49,Electronics,100000399,0
+2025-02-05,Furniture Store,40.15,Home Goods,100000400,0
+2025-02-06,Streaming Monthly,10.33,Subscription,100000401,0
+2025-02-07,DIY Supplies,116.58,Home Improvement,100000402,0
+2025-02-09,Clothing Accessory,84.06,Apparel,100000403,0
+2025-02-09,Spa Day,68.67,Personal Care,100000404,0
+2025-02-10,City Transit,54.08,Transportation,100000405,0
+2025-02-10,Fast Food Outlet,29.53,Food,100000406,0
+2025-02-11,Vet Visit,28.77,Pet Supplies,100000407,0
+2025-02-12,Gadget Store,435.83,Electronics,100000408,0
+2025-02-13,Online Service,13.99,Subscription,100000409,0
+2025-02-14,Local Grocer,141.00,Groceries,100000410,0
+2025-02-16,Gaming Platform,13.78,Entertainment,100000411,0
+2025-02-16,Hardware Store,143.30,Home Improvement,100000412,0
+2025-02-18,Morning Brew,9.20,Coffee,100000413,0
+2025-02-20,Streaming Service,13.39,Entertainment,100000414,0
+2025-02-22,Supermarket,20.20,Groceries,100000415,0
+2025-02-24,Online Service,13.36,Subscription,100000416,0
+2025-02-25,Digital Marketplace,71.34,Online Retail,100000417,0
+2025-02-25,Department Store,101.05,Shopping,100000418,0
+2025-02-26,Online Service,15.61,Subscription,100000419,0
+2025-02-27,Hardware Store,129.55,Home Improvement,100000420,0
+2025-03-01,Yoga Studio,47.14,Fitness,100000421,0
+2025-03-02,Book Store,48.87,Hobbies,100000422,0
+2025-03-03,Streaming Monthly,20.60,Subscription,100000423,0
+2025-03-03,Farmers Market,28.46,Groceries,100000424,0
+2025-03-03,Pet Grooming,36.89,Pet Supplies,100000425,0
+2025-03-05,Pet Store,17.90,Pet Supplies,100000426,0
+2025-03-07,Convenience Store,36.69,Groceries,100000427,0
+2025-03-08,Hotel Stay,1312.57,Travel,100000428,0
+2025-03-09,Craft Store,42.95,Hobbies,100000429,0
+2025-03-10,Charity Donation,95.43,Donation,100000430,0
+2025-03-10,Sporting Goods,36.19,Fitness,100000431,0
+2025-03-10,Digital Marketplace,172.11,Online Retail,100000432,0
+2025-03-11,General Merchandise,56.30,Shopping,100000433,0
+2025-03-12,Clothing Store,108.45,Apparel,100000434,0
+2025-03-14,Taxi Fare,59.84,Transportation,100000435,0
+2025-03-14,Drug Store,93.72,Healthcare,100000436,0
+2025-03-14,Gym Class,36.09,Fitness,100000437,0
+2025-03-14,E-commerce Site,204.34,Online Retail,100000438,0
+2025-03-14,Salon Services,46.68,Personal Care,100000439,0
+2025-03-15,Non-Profit Contribution,92.49,Donation,100000440,0
+2025-03-17,Book Store,28.18,Hobbies,100000441,0
+2025-03-19,Charity Donation,88.31,Donation,100000442,0
+2025-03-20,Retail Store,48.60,Shopping,100000443,0
+2025-03-22,Fitness Center,38.95,Fitness,100000444,0
+2025-03-24,Takeaway Meal,51.17,Food,100000445,0
+2025-03-25,City Transit,48.91,Transportation,100000446,0
+2025-03-27,Supermarket,75.96,Groceries,100000447,0
+2025-03-28,App Subscription,5.25,Subscription,100000448,0
+2025-03-29,Salon Services,67.73,Personal Care,100000449,0
+2025-03-31,Craft Store,58.10,Hobbies,100000450,0
+2025-03-31,Art Supply Store,47.03,Hobbies,100000451,0
+2025-04-02,Water Bill,73.45,Utilities,100000452,0
+2025-04-02,Stationery Shop,15.84,Office Supplies,100000453,0
+2025-04-02,Gym Class,15.78,Fitness,100000454,0
+2025-04-04,Home Decor,81.51,Home Goods,100000455,0
+2025-04-05,Electronics Repair,213.91,Electronics,100000456,0
+2025-04-05,Electronics Repair,322.82,Electronics,100000457,0
+2025-04-07,Drug Store,34.75,Healthcare,100000458,0
+2025-04-07,Electronics Repair,77.30,Electronics,100000459,0
+2025-04-08,Bus Fare,832.72,Travel,100000460,0
+2025-04-09,Concert Tickets,73.01,Entertainment,100000461,0
+2025-04-10,Web Store,116.86,Online Retail,100000462,0
+2025-04-10,Diner,16.68,Food,100000463,0
+2025-04-12,Gadget Store,259.45,Electronics,100000464,0
+2025-04-12,Pet Store,47.28,Pet Supplies,100000465,0
+2025-04-14,Digital Marketplace,108.83,Online Retail,100000466,0
+2025-04-14,Web Store,221.76,Online Retail,100000467,0
+2025-04-16,Electronic Goods,409.71,Electronics,100000468,0
+2025-04-18,Bus Fare,95.84,Travel,100000469,0
+2025-04-18,App Subscription,27.26,Subscription,100000470,0
+2025-04-19,Bus Fare,943.55,Travel,100000471,0
+2025-04-21,Furniture Store,99.53,Home Goods,100000472,0
+2025-04-21,Non-Profit Contribution,47.90,Donation,100000473,0
+2025-04-21,DIY Supplies,67.33,Home Improvement,100000474,0
+2025-04-21,Supermarket,30.86,Groceries,100000475,0
+2025-04-21,Quick Service Restaurant,22.57,Food,100000476,0
+2025-04-23,Home Decor,65.60,Home Goods,100000477,0
+2025-04-23,Book Store,46.23,Hobbies,100000478,0
+2025-04-23,General Merchandise,125.77,Shopping,100000479,0
+2025-04-23,Home Repair Store,114.76,Home Improvement,100000480,0
+2025-04-25,Pharmacy,41.88,Healthcare,100000481,0
+2025-04-27,Online Service,7.34,Subscription,100000482,0
+2025-04-27,Kitchenware,66.02,Home Goods,100000483,0
+2025-04-28,Vet Visit,25.62,Pet Supplies,100000484,0
+2025-04-30,Digital Marketplace,252.87,Online Retail,100000485,0
+2025-05-01,DIY Supplies,127.37,Home Improvement,100000486,0
+2025-05-01,Electricity Bill,154.15,Utilities,100000487,0
+2025-05-03,Online Shop,145.25,Shopping,100000488,0
+2025-05-04,Department Store,58.22,Shopping,100000489,0
+2025-05-04,Fine Dining,57.54,Food,100000490,0
+2025-05-05,Clothing Store,80.78,Apparel,100000491,0
+2025-05-06,Kitchenware,44.22,Home Goods,100000492,0
+2025-05-08,Spa Day,35.57,Personal Care,100000493,0
+2025-05-10,Non-Profit Contribution,85.16,Donation,100000494,0
+2025-05-12,Train Ticket,193.09,Travel,100000495,0
+2025-05-13,Home Decor,51.99,Home Goods,100000496,0
+2025-05-13,Home Repair Store,132.13,Home Improvement,100000497,0
+2025-05-15,Online Purchase,171.43,Online Retail,100000498,0
+2025-05-15,Pet Store,11.69,Pet Supplies,100000499,0
+2025-05-17,Gas Station,25.42,Transportation,100000500,0
