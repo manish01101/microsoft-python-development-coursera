@@ -1,0 +1,36 @@
+2026-02-21 10:40:24,264 - DEBUG - This is a debug message
+2026-02-21 10:40:24,264 - INFO - This is an info message
+2026-02-21 10:40:24,264 - WARNING - This is a warning message
+2026-02-21 10:40:24,267 - ERROR - This is an error message
+2026-02-21 10:40:24,267 - CRITICAL - This is a critical message
+2026-02-21 10:40:56,773 - DEBUG - This is a debug message
+2026-02-21 10:40:56,773 - INFO - This is an info message
+2026-02-21 10:40:56,773 - WARNING - This is a warning message
+2026-02-21 10:40:56,773 - ERROR - This is an error message
+2026-02-21 10:40:56,773 - CRITICAL - This is a critical message
+2026-02-21 10:41:02,125 - DEBUG - This is a debug message
+2026-02-21 10:41:02,125 - INFO - This is an info message
+2026-02-21 10:41:02,125 - WARNING - This is a warning message
+2026-02-21 10:41:02,125 - ERROR - This is an error message
+2026-02-21 10:41:02,125 - CRITICAL - This is a critical message
+2026-02-21 10:41:02,985 - DEBUG - This is a debug message
+2026-02-21 10:41:02,985 - INFO - This is an info message
+2026-02-21 10:41:02,985 - WARNING - This is a warning message
+2026-02-21 10:41:02,985 - ERROR - This is an error message
+2026-02-21 10:41:02,985 - CRITICAL - This is a critical message
+2026-02-21 10:43:07,336 - DEBUG - This is a debug message
+2026-02-21 10:43:07,336 - INFO - This is an info message
+2026-02-21 10:43:07,336 - WARNING - This is a warning message
+2026-02-21 10:43:07,336 - ERROR - This is an error message
+2026-02-21 10:43:07,336 - CRITICAL - This is a critical message
+2026-02-21 10:43:07,613 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-21 10:43:07,613 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-21 10:43:07,613 - INFO -  * Restarting with stat
+2026-02-21 10:43:07,639 - DEBUG - This is a debug message
+2026-02-21 10:43:07,639 - INFO - This is an info message
+2026-02-21 10:43:07,639 - WARNING - This is a warning message
+2026-02-21 10:43:07,639 - ERROR - This is an error message
+2026-02-21 10:43:07,639 - CRITICAL - This is a critical message
+2026-02-21 10:43:07,719 - WARNING -  * Debugger is active!
+2026-02-21 10:43:07,728 - INFO -  * Debugger PIN: 137-367-451
